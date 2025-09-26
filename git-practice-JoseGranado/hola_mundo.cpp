@@ -6,5 +6,6 @@ int main() {
     cout << "Mi nombre es: [Tu Nombre]" << endl;
     cout << "Estoy aprendiendo Git en Programación II" << endl;
     cout << "Este es mi segundo commit!" << endl;
+    //mensaje de prueba 
     return 0;
 }
